@@ -1,0 +1,1 @@
+ajax from plain text
